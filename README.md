@@ -1,0 +1,2 @@
+# Othello
+Secure SW Design
